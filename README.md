@@ -233,6 +233,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/eeshita19"><img src="https://avatars3.githubusercontent.com/u/43987674?v=4" width="100px;" alt=""/><br /><sub><b>Eeshita</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=eeshita19" title="Code">💻</a></td>
     <td align="center"><a href="http://engineeranchal.wordpress.com"><img src="https://avatars0.githubusercontent.com/u/37269403?v=4" width="100px;" alt=""/><br /><sub><b>Anchal Gupta</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=anchal-gupta" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/BRZ-OS"><img src="https://avatars1.githubusercontent.com/u/72369442?v=4" width="100px;" alt=""/><br /><sub><b>BRZ-OS</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=BRZ-OS" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/Mayank-Khurmai"><img src="https://avatars0.githubusercontent.com/u/44177000?s=460&u=f4b8d55c7e97927800bfdb0a954a2221f871445d&v=4" width="100px;" alt="Mayank Khurmai"/><br /><sub><b>Mayank-Khurmai</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=BRZ-OS" title="Code">💻</a></td>
   </tr>
 </table>
 
